@@ -1,3 +1,4 @@
 mlflow_data/1
 dbs/data
 datasets
+*.DS_Store
