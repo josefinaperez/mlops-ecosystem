@@ -38,7 +38,7 @@ root@08487b094f8a:/#  psql -U postgres
 
 root@08487b094f8a:/#  exit
 
-docker kill mlops-postgres
+docker docker kill mlops-postgres
 
 docker container rm mlops-postgres
 
